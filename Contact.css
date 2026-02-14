@@ -1,0 +1,32 @@
+section {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding: 1px;
+}
+
+img {
+  border: groove black 5px;
+  width: 150px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+label {
+  display: flex;
+  flex-direction: column;
+}
+
+button {
+  background-color: black;
+  color: white;
+}
+
+button:hover {
+  cursor: pointer;
+  background-color: grey;
+}

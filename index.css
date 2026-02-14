@@ -13,7 +13,7 @@ section {
 }
 
 img {
-  border: groove black 3px;
+  border: groove black 5px;
 }
 
 @media screen and (max-width: 600px) {
