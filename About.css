@@ -1,0 +1,24 @@
+section {
+  display: flex;
+  align-self: center;
+  flex-direction: column;
+  border: 10px black groove;
+  padding: 3px;
+  max-width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+img {
+  align-self: center;
+  width: 200px;
+}
+
+h1 {
+  text-align: center;
+}
+
+body {
+  text-align: center;
+}
